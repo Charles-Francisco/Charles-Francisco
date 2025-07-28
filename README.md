@@ -16,7 +16,7 @@ Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib
 Tools: Jupyter Notebooks, VS Code, Git, GitHub
 
 🚀 Projects:
-1. [Free Will Analyzer]([url](https://github.com/Charles-Francisco/Break-Through-Tech-eCornell-Portfolio/blob/main/DefineAndSolveMLProblem.ipynb))
+1. [Free Will Analyzer](https://github.com/Charles-Francisco/Break-Through-Tech-eCornell-Portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
    - Tech Stack: Python, scikit-learn, Matplotlib, Seaborn 
 
 📫 How to Reach Me:  
