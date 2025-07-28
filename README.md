@@ -3,13 +3,21 @@
 🎓 Junior at Louisiana State University, studying Computer Science - Software Engineering                         
 🔭 Aspiring Data Scientist
 
-I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. Currently, I'm focusing on building machine learning models and diving deeper into data science. 
+I love to solve real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. Currently, I'm focusing on building machine learning models and diving deeper into data science. 
+
+🎯 Featured Project: Fall AI Studio Project(TBD) (*link your project README)
+What We Did: 
+Tools: 
+Result: 
 
 🛠 Tech Stack:
 Languages: Python, Java
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib
 Tools: Jupyter Notebooks, VS Code, Git, GitHub
 
+🚀 Projects:
+1. [Free Will Analyzer]([url](https://github.com/Charles-Francisco/Break-Through-Tech-eCornell-Portfolio/blob/main/DefineAndSolveMLProblem.ipynb))
+   - Tech Stack: Python, scikit-learn, Matplotlib, Seaborn 
 
 📫 How to Reach Me:  
 Email: cfra113@lsu.edu  
