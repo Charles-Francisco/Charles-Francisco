@@ -12,7 +12,7 @@ My team and I are using free-text conversation data to extract structured metada
 
 
 ### 🚀 More Projects:
-[Predicting Perceptions of Freedom](https://github.com/Charles-Francisco/MLFoundations/blob/main/FreedomPerception.ipynb)
+[Predicting Perceptions of Freedom](https://github.com/Charles-Francisco/BreakThroughTech-ML-Capstone)
    - **Tools**: Python, Pandas, Matplotlib, Scikit-Learn, Seaborn, Jupyter Notebooks
    - **What I Did**: Applied ML regression techniques on the 2018 World Happiness Report dataset to predict citizens’ perceived freedom of choice globally. Performed data preprocessing, model evaluation (R², RMSE), and feature importance analysis.
    - **Results**: Identified key factors influencing perceived freedom and improved predictive accuracy beyond the baseline model.
